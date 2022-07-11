@@ -5,4 +5,6 @@
 
 ## 모델 목록
 - 2018/11
-  - BERT
+  - BERT (구글)
+  - GPT-2 (OpenAI)
+  - RoBERTa (메타)
