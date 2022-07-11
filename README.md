@@ -14,10 +14,42 @@
     - Transformer의 Decoder로 만든 사전훈련 모델
 - 2019/07
   - RoBERTa (메타)
+    - BERT를 개선한 모델
 - 2019/10
   - BART (메타)
+    - Seq2Seq 구조로 손상된 텍스트를 복구하는 사전훈련 방법 사용
   - KoBERT (SKT)
+    - 한국어 BERT
 - 2019/12
   - ALBERT (구글)
+    - BERT 경량화
 - 2020/01
   - Meena (구글)
+    - 일상대화 딥러닝 모델
+- 2020/03
+  - ELECTRA (구글)
+    - RTD(Replaced Token Detection) 방식으로 사전훈련
+- 2020/04
+  - KoELECTRA (박장원)
+    - 한국어 ELECTRA
+  - KoGPT-2 (SKT)
+    - 한국어 GPT-2
+- 2020/05
+  - GPT-3 (OpenAI)
+    - GPT-2의 100배 크기를 가진 초거대모델
+  - BlenderBot (메타)
+    - 일상대화 딥러닝 모델
+- 2020/07
+  - KcBERT (이준범)
+    - 구어체에 특화된 한국어 BERT
+- 2020/12
+  - KoBART (SKT)
+    - 한국어 BART
+- 2021/01
+  - DALL·E (OpenAI)
+    - Text-to-Image 모델
+  - CLIP (OpenAI)
+    - 이미지와 텍스트 임베딩을 유사하도록 만드는 모델
+- 2021/04
+  - KoELECTRA (이준범)
+    - 구어체에 특화된 한국어 ELECTRA
