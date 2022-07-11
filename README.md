@@ -7,7 +7,7 @@
 
 ## 모델 목록
 - 2018/11
-  - BERT (구글)
+  - **BERT** (구글)
     - Transformer의 Encoder로 만든 사전훈련 모델
 - 2019/02
   - GPT-2 (OpenAI)
