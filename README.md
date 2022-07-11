@@ -7,10 +7,11 @@
 
 ## 모델 목록
 - 2018/11
-  - BERT (구글) : MLM 방식의 트랜스포머
+  - BERT (구글)
+    - Transformer의 Encoder로 만든 사전훈련 모델
 - 2019/02
   - GPT-2 (OpenAI)
-    - MLM 방식의 트랜스포머
+    - Transformer의 Decoder로 만든 사전훈련 모델
 - 2019/07
   - RoBERTa (메타)
 - 2019/10
