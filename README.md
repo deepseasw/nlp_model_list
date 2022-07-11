@@ -49,7 +49,7 @@
   - **DALL·E** (OpenAI)
     - Text-to-Image 모델
   - **CLIP** (OpenAI)
-    - 이미지와 텍스트 임베딩을 유사하도록 만드는 모델
+    - 이미지와 텍스트 임베딩이 유사하도록 만드는 모델
 - 2021/04
   - **KoELECTRA** (이준범)
     - 구어체에 특화된 한국어 ELECTRA
