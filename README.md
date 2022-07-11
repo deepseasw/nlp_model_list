@@ -10,13 +10,13 @@
   - **BERT** (구글)
     - Transformer의 Encoder로 만든 사전훈련 모델
 - 2019/02
-  - GPT-2 (OpenAI)
+  - **GPT-2 (OpenAI)
     - Transformer의 Decoder로 만든 사전훈련 모델
 - 2019/07
-  - RoBERTa (메타)
+  - **RoBERTa** (메타)
     - BERT를 개선한 모델
 - 2019/10
-  - BART (메타)
+  - **BART (메타)
     - Seq2Seq 구조로 손상된 텍스트를 복구하는 사전훈련 방법 사용
   - KoBERT (SKT)
     - 한국어 BERT
