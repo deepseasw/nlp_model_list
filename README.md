@@ -107,5 +107,8 @@
     - 일상대화가 가능한 개인비서 앱
   - **CogVideo** (칭화대)
     - 4초 32프레임의 영상을 만드는 Text-to-Video 모델
+
+
+## 참고 자료
 - 한국어 사전학습 모델
   - https://github.com/sooftware/Korean-PLM
