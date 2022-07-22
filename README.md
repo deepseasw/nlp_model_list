@@ -7,8 +7,10 @@
 
 ## 모델 목록
 - 2018/11
-  - **BERT** (구글)
-    - 설명
+  - **BERT**
+    - 제작자
+      - 구글
+    - 특징
       - Transformer의 Encoder로 만든 사전훈련 모델
     - 모델크기
       - Base 110M / Large 340M
