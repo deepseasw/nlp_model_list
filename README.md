@@ -213,7 +213,7 @@
     - 모델크기
       - 300B
     - 관련문서
-      - LG 초거대 AI '엑사원' 등장...언어와 이미지, 한국어와 영어 같이 다뤄(http://www.aitimes.com/news/articleView.html?idxno=141958)
+      - [LG 초거대 AI '엑사원' 등장...언어와 이미지, 한국어와 영어 같이 다뤄](http://www.aitimes.com/news/articleView.html?idxno=141958)
   - **Gopher** (딥마인드)
     - 특징
       - GPT-3보다 큰 초거대모델
@@ -222,33 +222,94 @@
     - 관련문서
       - [Language modelling at scale: Gopher, ethical considerations, and retrieval](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval)
   - **RETRO** (딥마인드)
-    - 7.5B이지만 외부 검색으로 성능을 높인 모델
+    - 특징
+      - 상대적으로 작은 파라미터를 가지고 있지만 외부 검색으로 성능을 높인 모델
+    - 모델크기
+      - 7.5B
+    - 관련문서
+      - [Improving language models by retrieving from trillions of tokens](https://www.deepmind.com/publications/improving-language-models-by-retrieving-from-trillions-of-tokens)
 - 2022/01
   - **InstructGPT** (OpenAI)
-    - GPT-3의 업그레이드 버전
+    - 특징
+      - GPT-3의 업그레이드 버전
+    - 모델크기
+      - 175B
+    - 관련문서
+      - [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/)
+      - [GPT3는 어떻게 강화학습으로 강해졌는가](https://jiho-ml.com/weekly-nlp-53/)
 - 2022/02
   - **AlphaCode** (딥마인드)
-    - 설명이 주어지면 코드를 작성하는 모델
+    - 특징
+      - 설명이 주어지면 코드를 작성하는 모델
+    - 모델크기
+      - 41B
+    - 관련문서
+      - [프로그램을 작성하는 딥마인드의 알파코드](http://aidev.co.kr/chatbotdeeplearning/11111)
 - 2022/04
   - **DALL·E 2** (OpenAI)
-    - CLIP과 Diffusion을 사용한 Text-to-Image 모델
+    - 특징
+      - CLIP과 Diffusion을 사용한 Text-to-Image 모델
+    - 모델크기
+      - 미확인
+    - 관련문서
+      - [DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language](https://openai.com/dall-e-2/)
   - **Chinchilla** (딥마인드)
-    - 70B으로 280B의 Gopher보다 뛰어난 성능을 보임
+    - 특징
+      - 작은 파라미터를 가지고 있지만 280B의 Gopher보다 뛰어난 성능을 보임
+    - 모델크기
+      - 70B
+    - 관련문서
+      - [An empirical analysis of compute-optimal large language model training](https://www.deepmind.com/publications/an-empirical-analysis-of-compute-optimal-large-language-model-training)
   - **Flamingo** (딥마인드)
-    - 텍스트, 이미지, 영상을 처리할 수 있는 멀티모달 모델
+    - 특징
+      - 텍스트, 이미지, 영상을 처리할 수 있는 멀티모달 모델
+    - 모델크기
+      - 80B
+    - 관련문서
+      - [글자, 사진, 영상을 동시에 처리하는 딥마인드의 딥러닝 모델 - Flamingo](http://aidev.co.kr/chatbotdeeplearning/11347)
   - **PaLM** (구글)
-    - GPT-3의 3배인 540B의 초거대모델
+    - 특징
+      - GPT-3의 3배인 540B의 초거대모델
+    - 모델크기
+      - 540B
+    - 관련문서
+      - [Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
 - 2022/05
   - **Imagen** (구글)
-    - Diffusion을 사용한 Text-to-Image 모델
+    - 특징
+      - Diffusion을 사용한 Text-to-Image 모델
+    - 모델크기
+      - 미확인
+    - 관련문서
+      - [Imagen: Unprecedented photorealism × deep level of language understanding](https://imagen.research.google/)
   - **Gato** (딥마인드)
-    - 텍스트, 이미지, 영상, 게임, 로봇 등 다양한 작업을 하나의 모델로 수행
+    - 특징
+      - 텍스트, 이미지, 영상, 게임, 로봇 등 다양한 작업을 하나의 모델로 수행
+    - 모델크기
+      - 1.18B
+    - 관련문서
+      - [A Generalist Agent](https://www.deepmind.com/publications/a-generalist-agent)
   - **Parti** (구글)
-    - Encoder-Decoder 구조의 Text-to-Image 모델
+    - 특징
+      - Encoder-Decoder 구조의 Text-to-Image 모델
+    - 모델크기
+      - 20B
+    - 관련문서
+      - [Parti: Pathways Autoregressive Text-to-Image model](https://parti.research.google/)
   - **에이닷** (SKT)
-    - 일상대화가 가능한 개인비서 앱
+    - 특징
+      - 일상대화가 가능한 개인비서 앱
+    - 모델크기
+      - 미확인
+    - 관련문서
+      - [SKT의 개인비서 인공지능 - 에이닷](http://aidev.co.kr/chatbots/11426)
   - **CogVideo** (칭화대)
-    - 4초 32프레임의 영상을 만드는 Text-to-Video 모델
+    - 특징
+      - 4초 32프레임의 영상을 만드는 Text-to-Video 모델
+    - 모델크기
+      - 9B
+    - 관련문서
+      - https://github.com/THUDM/CogVideo
 
 
 ## 참고 자료
