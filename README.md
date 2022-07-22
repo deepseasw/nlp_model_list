@@ -162,25 +162,65 @@
       - [하이퍼클로바 활용예 및 사용가이드](http://aidev.co.kr/chatbotdeeplearning/11213)
 - 2021/07
   - **BlenderBot 2.0** (메타)
-    - 검색 및 기억 능력이 추가된 일상대화 모델
+    - 특징
+      - 검색 및 기억 능력이 추가된 일상대화 모델
+    - 모델크기
+      - 미확인
+    - 관련문서
+      - [인터넷 검색을 하고 장기기억을 저장하는 페이스북의 챗봇 - Blenderbot2.0](http://aidev.co.kr/chatbotdeeplearning/10629)
 - 2021/09
   - **TUNiB-Electra** (튜닙)
-    - 한국어 ELECTRA
+    - 특징
+      - 한국어 ELECTRA
+    - 모델크기
+      - Small 14M / Base 110M
+    - 관련문서
+      - https://github.com/tunib-ai/tunib-electra
 - 2021/10
   - **KLUE-BERT** (KLUE)
-    - 한국어 BERT
+    - 특징
+      - 한국어 BERT
+    - 모델크기
+      - 110M
+    - 관련문서
+      - https://github.com/KLUE-benchmark/KLUE
   - **KLUE-RoBERTa** (KLUE)
-    - 한국어 RoBERTa
+    - 특징
+      - 한국어 RoBERTa
+    - 모델크기
+      - Base 125M / Large 355M
+    - 관련문서
+      - https://github.com/KLUE-benchmark/KLUE
 - 2021/11
   - **KoGPT** (카카오)
-    - 6B의 한국어 GPT
+    - 특징
+      - 한국어 GPT
+    - 모델크기
+      - 6B
+    - 관련문서
+      - https://github.com/kakaobrain/kogpt
 - 2021/12
   - **minDALL-E** (카카오)
-    - Text-to-Image 모델
+    - 특징
+      - Text-to-Image 모델
+    - 모델크기
+      - 1.3B
+    - 관련문서
+      - https://github.com/kakaobrain/minDALL-E
   - **엑사원** (LG)
-    - 텍스트와 이미지를 동시에 처리하는 한국어 초거대모델
+    - 특징
+      - 텍스트와 이미지를 동시에 처리하는 한국어 초거대모델
+    - 모델크기
+      - 300B
+    - 관련문서
+      - LG 초거대 AI '엑사원' 등장...언어와 이미지, 한국어와 영어 같이 다뤄(http://www.aitimes.com/news/articleView.html?idxno=141958)
   - **Gopher** (딥마인드)
-    - 280B의 초거대모델
+    - 특징
+      - GPT-3보다 큰 초거대모델
+    - 모델크기
+      - 280B
+    - 관련문서
+      - [Language modelling at scale: Gopher, ethical considerations, and retrieval](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval)
   - **RETRO** (딥마인드)
     - 7.5B이지만 외부 검색으로 성능을 높인 모델
 - 2022/01
