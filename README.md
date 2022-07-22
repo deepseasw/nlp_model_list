@@ -9,6 +9,8 @@
 - 2018/11
   - **BERT** (구글)
     - Transformer의 Encoder로 만든 사전훈련 모델
+    - 파라미터 : Base 110M / Large 340M
+    - [The Illustrated BERT, ELMo, and co.](https://nlpinkorean.github.io/illustrated-bert/)
 - 2019/02
   - **GPT-2** (OpenAI)
     - Transformer의 Decoder로 만든 사전훈련 모델
