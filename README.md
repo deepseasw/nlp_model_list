@@ -48,42 +48,118 @@
       - https://github.com/SKTBrain/KoBERT
 - 2019/12
   - **ALBERT** (구글)
-    - BERT 경량화
+    - 특징
+      - BERT 경량화
+    - 모델크기
+      - Base 12M / Large 18M / XLarge 60M / XXLarge 235M
+    - 관련문서
+      - [ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations](https://ai.googleblog.com/2019/12/albert-lite-bert-for-self-supervised.html)
+      - [ALBERT 논문 리뷰](https://thejb.ai/albert/)
 - 2020/01
   - **Meena** (구글)
-    - 일상대화 모델
+    - 특징
+      - 일상대화 모델
+    - 모델크기
+      - 2.6B
+    - 관련문서
+      - [구글의 일상대화 딥러닝 모델 - Meena](http://aidev.co.kr/chatbotdeeplearning/8881)
 - 2020/03
   - **ELECTRA** (구글)
-    - RTD(Replaced Token Detection) 방식으로 사전훈련
+    - 특징
+      - RTD(Replaced Token Detection) 방식으로 사전훈련
+    - 모델크기
+      - Small 14M / Base 110M / Large 335M
+    - 관련문서
+      - [More Efficient NLP Model Pre-training with ELECTRA](https://ai.googleblog.com/2020/03/more-efficient-nlp-model-pre-training.html)
+      - [꼼꼼하고 이해하기 쉬운 ELECTRA 논문 리뷰](https://blog.pingpong.us/electra-review/)
 - 2020/04
   - **KoELECTRA** (박장원)
-    - 한국어 ELECTRA
+    - 특징
+      - 한국어 ELECTRA
+    - 모델크기
+      - Small 14M / Base 110M
+    - 관련문서
+      - [2주 간의 KoELECTRA 개발기](https://monologg.kr/2020/05/02/koelectra-part1/)
+      - https://github.com/monologg/KoELECTRA
   - **KoGPT-2** (SKT)
-    - 한국어 GPT-2
+    - 특징
+      - 한국어 GPT-2
+    - 모델크기
+      - 125M
+    - 관련문서
+      - https://github.com/SKT-AI/KoGPT2
 - 2020/05
   - **GPT-3** (OpenAI)
-    - GPT-2의 100배 크기를 가진 초거대모델
+    - 특징
+      - GPT-2의 100배 크기를 가진 초거대모델
+    - 모델크기
+      - 175B
+    - 관련문서
+      - [How GPT3 Works](https://chloamme.github.io/2021/12/18/how-gpt3-works-visualizations-animations-korean.html)
+      - [GPT-3 데모 사이트](https://gpt3demo.com/)
+      - [GPT-3 패러다임을 바꿀 미친 성능의 인공지능 등장 및 활용 사례 10가지](https://www.youtube.com/watch?v=I7sZVrwM6_Q)
   - **BlenderBot** (메타)
-    - 일상대화 모델
+    - 특징
+      - 일상대화 모델
+    - 모델크기
+      - 9.4B
+    - 관련문서
+      - [페이스북의 일상대화 딥러닝 모델 - Blender](http://aidev.co.kr/chatbotdeeplearning/9114)
 - 2020/07
   - **KcBERT** (이준범)
-    - 구어체에 특화된 한국어 BERT
+    - 특징
+      - 구어체에 특화된 한국어 BERT
+    - 모델크기
+      - Base 108M / Large 334M
+    - 관련문서
+      - https://github.com/Beomi/KcBERT
 - 2020/12
   - **KoBART** (SKT)
-    - 한국어 BART
+    - 특징
+      - 한국어 BART
+    - 모델크기
+      - 124M
+    - 관련문서
+      - https://github.com/SKT-AI/KoBART
 - 2021/01
   - **DALL·E** (OpenAI)
-    - Text-to-Image 모델
+    - 특징
+      - Text-to-Image 모델
+    - 모델크기
+      - 12B
+    - 관련문서
+      - [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
   - **CLIP** (OpenAI)
-    - 이미지와 텍스트 임베딩이 유사하도록 만드는 모델
+    - 특징
+      - 이미지와 텍스트 임베딩이 유사하도록 만드는 모델
+    - 모델크기
+      - 미확인
+    - 관련문서
+      - [OpenAI의 이미지인식 모델 CLIP](http://aidev.co.kr/deeplearning/10254)
 - 2021/04
   - **KoELECTRA** (이준범)
-    - 구어체에 특화된 한국어 ELECTRA
+    - 특징
+      - 구어체에 특화된 한국어 ELECTRA
+    - 모델크기
+      - 124M
+    - 관련문서
+      - https://github.com/Beomi/KcELECTRA
 - 2021/05
   - **LaMDA** (구글)
-    - 대화 전용 초거대모델
+    - 특징
+      - 대화 전용 초거대모델
+    - 모델크기
+      - 137B
+    - 관련문서
+      - [LaMDA: our breakthrough conversation technology](https://blog.google/technology/ai/lamda/)
+      - [구글의 대화기반 초거대모델 LaMDA, 논문 공개](http://aidev.co.kr/chatbotdeeplearning/11129)
   - **하이퍼클로바** (네이버)
-    - 한국어 초거대모델
+    - 특징
+      - 한국어 초거대모델
+    - 모델크기
+      - 204B
+    - 관련문서
+      - [하이퍼클로바 활용예 및 사용가이드](http://aidev.co.kr/chatbotdeeplearning/11213)
 - 2021/07
   - **BlenderBot 2.0** (메타)
     - 검색 및 기억 능력이 추가된 일상대화 모델
