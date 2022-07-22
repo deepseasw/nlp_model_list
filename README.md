@@ -25,12 +25,27 @@
       - [The Illustrated GPT-2](https://chloamme.github.io/2021/12/08/illustrated-gpt2-korean.html)
 - 2019/07
   - **RoBERTa** (메타)
-    - BERT를 개선한 모델
+    - 특징 
+      - BERT를 개선한 모델
+    - 모델크기
+      - Base 125M / Large 355M
+    - 관련문서
+      - [RoBERTa Review](https://baekyeongmin.github.io/paper-review/roberta-review/)
 - 2019/10
   - **BART** (메타)
-    - Seq2Seq 구조로 손상된 텍스트를 복구하는 사전훈련 방법 사용
+    - 특징
+      - Seq2Seq 구조로 손상된 텍스트를 복구하는 사전훈련 방법 사용
+    - 모델크기
+      - Base 140M / Large 400M
+    - 관련문서
+      - [BART 논문 리뷰](https://dladustn95.github.io/nlp/BART_paper_review/)
   - **KoBERT** (SKT)
-    - 한국어 BERT
+    - 특징
+      - 한국어 BERT
+    - 모델크기
+      - 92M
+    - 관련문서
+      - https://github.com/SKTBrain/KoBERT
 - 2019/12
   - **ALBERT** (구글)
     - BERT 경량화
