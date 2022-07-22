@@ -313,5 +313,5 @@
 
 
 ## 참고 자료
-- 한국어 사전학습 모델
+- 한국어 사전학습 모델 목록
   - https://github.com/sooftware/Korean-PLM
