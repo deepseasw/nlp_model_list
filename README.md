@@ -17,7 +17,8 @@
       - [The Illustrated Transformer](https://nlpinkorean.github.io/illustrated-transformer/)
 - 2019/02
   - **GPT-2** (OpenAI)
-    - Transformer의 Decoder로 만든 사전훈련 모델
+    - 특징
+      - Transformer의 Decoder로 만든 사전훈련 모델
     - 모델크기
       - Small 124M / Medium 355M / Large 774M / XL 1.5B
     - 관련문서
