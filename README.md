@@ -13,8 +13,8 @@
     - 모델크기
       - Base 110M / Large 340M
     - 관련문서
-      - The Illustrated BERT, ELMo, and co. [Link]
-      - [Link]: https://nlpinkorean.github.io/illustrated-bert
+      - The Illustrated BERT, ELMo, and co. [[Link]]
+      [Link]: https://nlpinkorean.github.io/illustrated-bert
 - 2019/02
   - **GPT-2** (OpenAI)
     - Transformer의 Decoder로 만든 사전훈련 모델
